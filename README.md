@@ -26,13 +26,9 @@ Tenho interesse em desenvolver uma carreira técnica na área de tecnologia, bus
 
 ### 💻 Programação
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-Conhecimentos iniciais em **lógica de programação utilizando Python**.
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-Atualmente estudando a linguagem **C** durante minha formação.
+Conhecimentos iniciais em **lógica de programação utilizando Python** e atualmente estudando a linguagem **C** durante minha formação.
 
 ---
 
@@ -46,15 +42,11 @@ Experiência acadêmica com **Figma**, incluindo criação de telas, protótipos
 
 ### 📐 Análise e Modelagem de Sistemas
 
-![BPMN](https://img.shields.io/badge/BPMN-005C97?style=for-the-badge&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-005C97?style=for-the-badge&logoColor=white) ![UML](https://img.shields.io/badge/UML-FF6600?style=for-the-badge&logoColor=white)
 
-Conhecimentos acadêmicos em **BPMN** para representação e organização de processos.
+Conhecimentos acadêmicos relacionados à **modelagem de sistemas**, diagramas **UML** e fluxograma **BPMN** para representação e organização de processos.
 
-![UML](https://img.shields.io/badge/UML-FF6600?style=for-the-badge&logoColor=white)
-
-Conhecimentos acadêmicos relacionados à **modelagem de sistemas**.
-
-Também possuo conhecimentos acadêmicos em:
+#### Também possuo conhecimentos acadêmicos em:
 
 - Levantamento de requisitos
 - Requisitos funcionais
@@ -70,9 +62,7 @@ Também possuo conhecimentos acadêmicos em:
 
 ### 🔧 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Utilizo **Git e GitHub** para organização, versionamento e publicação dos meus projetos acadêmicos.
 
