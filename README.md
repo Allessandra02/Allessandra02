@@ -136,7 +136,14 @@ Tenho como objetivo profissional atuar como **Analista de SOC**, buscando desenv
 ---
 
 ## 📫 Conecte-se comigo
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alessandra-guimar%C3%A3es02/) [![Dev.to](https://shields.io)](https://dev.to/alessandra_guimaraes)
+<p align="left">
+  <a href="https://www.linkedin.com/in/alessandra-guimar%C3%A3es02/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/alessandra_guimaraes" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
 
 ---
 
