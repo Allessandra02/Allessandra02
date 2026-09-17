@@ -122,9 +122,8 @@ O projeto foi desenvolvido com foco na análise das necessidades dos usuários, 
 
 ### 🛠️ Ferramentas utilizadas
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![BPMN](https://img.shields.io/badge/BPMN-005C97?style=for-the-badge&logoColor=white)
 
-![BPMN](https://img.shields.io/badge/BPMN-005C97?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -137,15 +136,7 @@ Tenho como objetivo profissional atuar como **Analista de SOC**, buscando desenv
 ---
 
 ## 📫 Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alessandra-guimar%C3%A3es02/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://dev.to/dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alessandra-guimar%C3%A3es02/) [![Dev.to](https://shields.io)](https://dev.to/alessandra_guimaraes)
 
 ---
 
